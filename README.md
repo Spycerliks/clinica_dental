@@ -1,5 +1,5 @@
 # Proyecto clinica_dental
-# Autor Matías Barrenechea
+Autor: Matías Barrenechea
 
 Página Web desarrollada con Java JSP. Modelo vista-controlador
 
