@@ -6,6 +6,9 @@
 DROP DATABASE IF EXISTS `clinicadental`;
 CREATE DATABASE IF NOT EXISTS `clinicadental`;
 
+/*Usar base datos*/
+USE `clinicadental`;
+
 /*Crear tabla usuario*/
 DROP TABLE IF EXISTS `clinicadental`.`usuario`;
 CREATE TABLE IF NOT EXISTS `clinicadental`.`usuario` (
@@ -164,6 +167,3 @@ VALUES ("Santiago","Meza",6);
 
 /*Commit*/
 COMMIT;
-
-/*Usar base datos*/
-USE `clinicadental`;
